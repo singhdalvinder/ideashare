@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204.563" height="82.741" viewBox="0 0 204.563 82.741">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.509" cy="0.507" r="0.49" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f20074"/>
+      <stop offset="0.377" stop-color="#f10074" stop-opacity="0.992"/>
+      <stop offset="0.512" stop-color="#ed0276" stop-opacity="0.965"/>
+      <stop offset="0.609" stop-color="#e70578" stop-opacity="0.914"/>
+      <stop offset="0.687" stop-color="#de0a7c" stop-opacity="0.847"/>
+      <stop offset="0.754" stop-color="#d31181" stop-opacity="0.753"/>
+      <stop offset="0.813" stop-color="#c41988" stop-opacity="0.643"/>
+      <stop offset="0.867" stop-color="#b4228f" stop-opacity="0.51"/>
+      <stop offset="0.917" stop-color="#a02d98" stop-opacity="0.353"/>
+      <stop offset="0.96" stop-color="#8a39a1" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7446ac" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.422" cy="0.019" r="1.466" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a289c"/>
+      <stop offset="0.963" stop-color="#00092b"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="0.385" cy="-1.405" r="2.429" gradientTransform="translate(0.267) scale(0.467 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f20074"/>
+      <stop offset="0.141" stop-color="#ed0276"/>
+      <stop offset="0.307" stop-color="#de0a7c"/>
+      <stop offset="0.486" stop-color="#c61787"/>
+      <stop offset="0.674" stop-color="#a52a95"/>
+      <stop offset="0.868" stop-color="#7b41a8"/>
+      <stop offset="0.898" stop-color="#7446ac"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="-0.559" cy="-0.922" r="1.764" gradientTransform="translate(0.01) scale(0.98 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-6" cx="0.518" cy="0.268" r="1.315" gradientTransform="translate(-0.006) scale(1.012 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-7" cx="-0.478" cy="0.203" r="1.397" gradientTransform="translate(-0.084) scale(1.169 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-8" cx="0.422" cy="0.019" r="1.514" gradientTransform="translate(0.054) scale(0.892 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-9" cx="0.422" cy="0.019" r="1.606" gradientTransform="translate(0.125) scale(0.751 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-10" cx="0.422" cy="0.019" r="1.593" gradientTransform="translate(0.117) scale(0.767 1)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <g id="Group_130" data-name="Group 130" transform="translate(-510.525 -4637.426)">
+    <g id="Group_129" data-name="Group 129" transform="translate(510.525 4637.426)">
+      <g id="Group_66" data-name="Group 66">
+        <ellipse id="Ellipse_156" data-name="Ellipse 156" cx="41.37" cy="41.37" rx="41.37" ry="41.37" fill="url(#radial-gradient)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="Ellipse_157" data-name="Ellipse 157" cx="35.37" cy="35.37" rx="35.37" ry="35.37" transform="translate(6 6)" fill="url(#radial-gradient-2)"/>
+        <ellipse id="Ellipse_158" data-name="Ellipse 158" cx="35.37" cy="35.37" rx="35.37" ry="35.37" transform="translate(6 6)" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <g id="Group_65" data-name="Group 65" transform="translate(6 6)">
+          <path id="Path_410" data-name="Path 410" d="M693.923,204.373a2.558,2.558,0,0,0,.485-1.581c-.141-1.091-1.452-1.6-2.551-1.613-2.609-.034-5,1.4-7.088,2.964s-4.086,3.353-6.54,4.237-5.57.6-7.173-1.455c-1.68-2.16-1.112-5.331-2.26-7.817a1.914,1.914,0,0,0-.662-.861c-.756-.475-1.721.058-2.459.562-4.2,2.867-8.876,5.255-13.927,5.816a18.457,18.457,0,0,1-5.44-.208A35.49,35.49,0,0,0,659.8,220.512a6.067,6.067,0,0,1,.394-1.169c1.882-4.006,7.176-4.671,11.59-5a44.4,44.4,0,0,0,12.378-2.324A18.976,18.976,0,0,0,693.923,204.373Z" transform="translate(-643.585 -155.415)" fill="url(#radial-gradient-4)" style="mix-blend-mode: screen;isolation: isolate"/>
+          <path id="Path_411" data-name="Path 411" d="M738.162,193.028c-2.385.062-4.725.232-6.688,1.5-3.265,2.114-4.186,6.566-3.675,10.422a5.488,5.488,0,0,1-.088,3.007,4.366,4.366,0,0,1-1.2,1.416c-4.48,3.846-10.2,5.863-15.314,8.819-2.236,1.293-4.6,3.245-4.614,5.772A35.376,35.376,0,0,0,738.162,193.028Z" transform="translate(-667.685 -153.402)" fill="url(#radial-gradient-5)" style="mix-blend-mode: screen;isolation: isolate"/>
+          <path id="Path_412" data-name="Path 412" d="M641.768,162.369c0,.205.012.407.016.612a6.9,6.9,0,0,0,1.9,1.015c1.556.534,3.352.571,4.617,1.622.691.574,1.141,1.394,1.825,1.975,1.7,1.446,4.425.978,6.165-.425s2.739-3.5,3.718-5.509,2.063-4.083,3.894-5.364a6.936,6.936,0,0,1,5.282-1.1c1.6.324,3.144,1.225,4.768,1.015,2.115-.274,3.589-2.47,3.661-4.6a10.02,10.02,0,0,0-2.167-5.9,11.785,11.785,0,0,1-1.625-2.7c-.952-2.678.649-5.6,2.621-7.649s4.411-3.735,5.757-6.238a5.048,5.048,0,0,0,.573-1.674,35.369,35.369,0,0,0-41,34.919Z" transform="translate(-641.768 -126.998)" fill="url(#radial-gradient-6)" style="mix-blend-mode: screen;isolation: isolate"/>
+          <path id="Path_413" data-name="Path 413" d="M716.542,137.932c.637,2.124,1.962,3.966,2.915,5.969s1.522,4.4.579,6.409c-1.155,2.457-4.053,3.428-6.522,4.56a26.121,26.121,0,0,0-6.139,3.933c-2.049,1.761-3.947,4.246-3.488,6.909.48,2.786,3.341,4.512,6.074,5.235a7.648,7.648,0,0,0,5.226-.12c3.042-1.459,3.885-5.739,6.923-7.206,2.44-1.178,5.3-.106,8,.112a13.193,13.193,0,0,0,7.128-1.533,35.374,35.374,0,0,0-20.64-29.906A9.818,9.818,0,0,0,716.542,137.932Z" transform="translate(-666.581 -129.116)" fill="url(#radial-gradient-7)" style="mix-blend-mode: screen;isolation: isolate"/>
+        </g>
+        <path id="Path_414" data-name="Path 414" d="M700.949,141.339a35.363,35.363,0,0,1-57.429,35.334,35.37,35.37,0,1,0,57.429-35.334Z" transform="translate(-636.469 -126.733)" opacity="0.25" fill="url(#radial-gradient-8)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Path_415" data-name="Path 415" d="M709.3,161.26A32.912,32.912,0,0,1,649,187.241a32.91,32.91,0,1,0,60.3-25.981Z" transform="translate(-638.662 -134.699)" opacity="0.34" fill="url(#radial-gradient-9)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <path id="Path_416" data-name="Path 416" d="M643.965,165.507A35.363,35.363,0,0,1,707.2,143.738a35.366,35.366,0,1,0-57.931,40.4A35.2,35.2,0,0,1,643.965,165.507Z" transform="translate(-635.768 -120.998)" fill="#e0a326" opacity="0.45" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+      <path id="Path_417" data-name="Path 417" d="M650.245,172.713c-1.055-4.2.6-10.557,1.444-13.611a33.65,33.65,0,0,1,12.139-18.151c15.736-11.732,33.855-3.175,38.667,2.071s-.847,10.9-9.543,10.766-17.254-.276-22.223,4.141-4.555,15.6-11.18,17.944c-2.193.777-5.363,1.523-7.427-.033A5.422,5.422,0,0,1,650.245,172.713Z" transform="translate(-639.022 -124.224)" fill="url(#radial-gradient-10)" style="mix-blend-mode: screen;isolation: isolate"/>
+      <g id="Group_67" data-name="Group 67" transform="translate(15.08 13.763)">
+        <path id="Path_418" data-name="Path 418" d="M668.754,152.141c1.915,1.686,1.041,5.809-1.953,9.209s-6.972,4.79-8.887,3.1-1.041-5.809,1.953-9.209S666.839,150.456,668.754,152.141Z" transform="translate(-656.899 -144.528)" fill="#e0a326" opacity="0.45" style="mix-blend-mode: screen;isolation: isolate"/>
+        <path id="Path_419" data-name="Path 419" d="M687.823,140.974c.7,1.326-.641,3.411-3,4.656s-4.834,1.178-5.536-.148.64-3.412,3-4.657S687.122,139.647,687.823,140.974Z" transform="translate(-665.779 -139.933)" fill="#e0a326" opacity="0.45" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+    </g>
+    <text id="BU_SINESS" data-name="BU SINESS" transform="translate(531.089 4691.321)" fill="#fff" font-size="35" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.06em"><tspan x="0" y="0">BU SINESS </tspan></text>
+  </g>
+</svg>

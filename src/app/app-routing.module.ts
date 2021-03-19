@@ -3,6 +3,8 @@ import { Routes, RouterModule } from '@angular/router';
 import { AuthGuard } from './modules/auth/_services/auth.guard';
 
 export const routes: Routes = [
+  { path: '', redirectTo: 'Home', pathMatch: 'full' },
+  { path: 'Home', loadChildren: () => import('./web-ui/web-ui.module').then(m => m.WebUiModule) },
   {
     path: 'auth',
     loadChildren: () =>
